@@ -6,9 +6,10 @@
 
 
 
-- 什么是自然语言处理？
+- 什么是自然语言处理
 - 机器学习基础
 - 基于机器学习的NLP核心技术
 - 快速理解经典的深度学习模型
 - 基于深度学习的NLP核心技术
-- 基于Transformer的最新NLP模型原理,例如Bert、Transformer
+- 基于深度学习的NER识别流程
+- 前沿NLP技术，基于Transformer的最新NLP模型原理,例如Bert、GPT等
